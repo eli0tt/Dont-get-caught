@@ -1,6 +1,6 @@
 {
-  "name": "Remix 课上偷吃大作战",
-  "description": "沉浸式课堂偷吃零食反应小游戏：敲击进食、控制分贝、警惕老师停笔回头、B键课本掩护、抢救桌面杂物与防备主任巡视！",
+  "name": "课上偷吃大作战",
+  "description": "沉浸式课堂偷吃零食反应小游戏：偷吃零食、警惕老师与防备主任！",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
