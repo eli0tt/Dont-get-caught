@@ -21,10 +21,10 @@
 
 <div align="center">
   <h3>选零食 & 选难度界面</h3>
-  <img width="400" alt="选零食和难度界面" src="https://github.com/user-attachments/assets/8fd29c0c-14e7-4f55-9fa8-ea972367209f" />
+  <img width="600" alt="选零食和难度界面" src="https://github.com/user-attachments/assets/8fd29c0c-14e7-4f55-9fa8-ea972367209f" />
   <br/><br/>
   <h3>游戏主场景</h3>
-  <img width="400" alt="游戏主场景" src="https://github.com/user-attachments/assets/e1c8e1c7-b00f-4576-b9cb-526520f75c48" />
+  <img width="600" alt="游戏主场景" src="https://github.com/user-attachments/assets/e1c8e1c7-b00f-4576-b9cb-526520f75c48" />
   <h3>游戏结算</h3>
-  <img width="500" alt="游戏弹窗" src="https://github.com/user-attachments/assets/37074a52-d6ba-4dfb-8ee6-c540ca404a25" />
+  <img width="600" alt="游戏弹窗" src="https://github.com/user-attachments/assets/37074a52-d6ba-4dfb-8ee6-c540ca404a25" />
 </div>
