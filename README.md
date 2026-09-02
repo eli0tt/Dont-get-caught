@@ -2,18 +2,6 @@
 
 > 沉浸式课堂偷吃零食反应小游戏 —— 敲击进食、控制分贝、警惕老师停笔回头！
 
-## 🎮 游戏界面预览
-
-<div align="center">
-  <h3>选零食 & 选难度界面</h3>
-  <img width="600" alt="选零食和难度界面" src="https://github.com/user-attachments/assets/8fd29c0c-14e7-4f55-9fa8-ea972367209f" />
-  <br/><br/>
-  <h3>游戏主场景</h3>
-  <img width="800" alt="游戏主场景" src="https://github.com/user-attachments/assets/e1c8e1c7-b00f-4576-b9cb-526520f75c48" />
-</div>
-
-
-
 ## 🎮 游戏简介
 
 《课上偷吃大作战》是一款沉浸式的课堂摸鱼挑战游戏。你需要在老师的眼皮底下偷偷吃零食，警惕老师停笔回头，还要在关键时刻用课本掩护自己！
@@ -29,3 +17,14 @@
 
  [https://eliot.github.io/Dont-get-caught/](https://eliot.github.io/Dont-get-caught/)
 
+## 🎮 游戏界面预览
+
+<div align="center">
+  <h3>选零食 & 选难度界面</h3>
+  <img width="400" alt="选零食和难度界面" src="https://github.com/user-attachments/assets/8fd29c0c-14e7-4f55-9fa8-ea972367209f" />
+  <br/><br/>
+  <h3>游戏主场景</h3>
+  <img width="400" alt="游戏主场景" src="https://github.com/user-attachments/assets/e1c8e1c7-b00f-4576-b9cb-526520f75c48" />
+  <h3>游戏结算</h3>
+  <img width="500" alt="游戏弹窗" src="https://github.com/user-attachments/assets/37074a52-d6ba-4dfb-8ee6-c540ca404a25" />
+</div>
